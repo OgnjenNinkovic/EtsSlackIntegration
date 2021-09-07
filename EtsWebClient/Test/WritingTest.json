@@ -1,0 +1,261 @@
+{
+  "EmployeeDetails": {
+    "Id": "b72e2ae1-75a8-465d-46f3-08d9029af90c",
+    "Name": "Ognjen Ninkovic",
+    "Email": "ognjen.ninkovic@akvelon.com",
+    "Role": "Employee",
+    "Office": "0cbe5a8a-72a6-4fcc-acef-e46de5b54b7b"
+  },
+  "MissingTime": [
+    {
+      "Date": "2021-07-01",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-02",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-05",
+      "SumOfTime": "75",
+      "TimeUnits": {
+        "id": "ed5439ce-a2b2-4125-ade7-8f1c04de6f83",
+        "employee_id": "b72e2ae1-75a8-465d-46f3-08d9029af90c",
+        "minutes": 75,
+        "date": "2021-07-05",
+        "description": "Test",
+        "project_id": "a34d576b-77fa-4daf-8fd6-bf4b817e7e51",
+        "project_title": "Internal - Absences for testing(not to delete)",
+        "overtime": false,
+        "status": "Draft",
+        "task_type_id": "3a5acb09-2653-4a38-b887-69ccd01dc3de",
+        "task_type_title": "Paid Vacation",
+        "is_time_unit_locked": false,
+        "is_billable": false,
+        "is_overtime_payable": null,
+        "overtime_multiplier": null,
+        "source_id": null,
+        "source_name": null,
+        "next_time_unit_id": null
+      }
+    },
+    {
+      "Date": "2021-07-06",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-07",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-08",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-09",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-12",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-13",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-14",
+      "SumOfTime": "240",
+      "TimeUnits": {
+        "id": "cfba5e25-f4cf-40fb-8eb4-94218cd35d42",
+        "employee_id": "b72e2ae1-75a8-465d-46f3-08d9029af90c",
+        "minutes": 240,
+        "date": "2021-07-14",
+        "description": "Test time unit",
+        "project_id": "9abbf993-ec79-45f8-91f4-9daf2bdb5f37",
+        "project_title": "Internship",
+        "overtime": false,
+        "status": "Draft",
+        "task_type_id": "dc6e4d53-b503-4d61-baf3-638d658cc004",
+        "task_type_title": "Investigation",
+        "is_time_unit_locked": false,
+        "is_billable": false,
+        "is_overtime_payable": null,
+        "overtime_multiplier": null,
+        "source_id": null,
+        "source_name": null,
+        "next_time_unit_id": null
+      }
+    },
+    {
+      "Date": "2021-07-15",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-16",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-19",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-20",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-21",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-22",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-07-26",
+      "SumOfTime": "300",
+      "TimeUnits": {
+        "id": "2a04f6f9-4c86-406c-ae7b-fb6feadccd0d",
+        "employee_id": "b72e2ae1-75a8-465d-46f3-08d9029af90c",
+        "minutes": 60,
+        "date": "2021-07-26",
+        "description": "The time unit from slack",
+        "project_id": "9abbf993-ec79-45f8-91f4-9daf2bdb5f37",
+        "project_title": "Internship",
+        "overtime": false,
+        "status": "Draft",
+        "task_type_id": "fbb245d6-036c-4ee3-947f-16b7bcf14757",
+        "task_type_title": "Testing",
+        "is_time_unit_locked": false,
+        "is_billable": false,
+        "is_overtime_payable": null,
+        "overtime_multiplier": null,
+        "source_id": null,
+        "source_name": null,
+        "next_time_unit_id": null
+      }
+    },
+    {
+      "Date": "2021-07-26",
+      "SumOfTime": "300",
+      "TimeUnits": {
+        "id": "3f4a90d5-67fb-48fe-b1be-f32e94e802ae",
+        "employee_id": "b72e2ae1-75a8-465d-46f3-08d9029af90c",
+        "minutes": 240,
+        "date": "2021-07-26",
+        "description": "The time unit from slack",
+        "project_id": "9abbf993-ec79-45f8-91f4-9daf2bdb5f37",
+        "project_title": "Internship",
+        "overtime": false,
+        "status": "Draft",
+        "task_type_id": "fbb245d6-036c-4ee3-947f-16b7bcf14757",
+        "task_type_title": "Testing",
+        "is_time_unit_locked": false,
+        "is_billable": false,
+        "is_overtime_payable": null,
+        "overtime_multiplier": null,
+        "source_id": null,
+        "source_name": null,
+        "next_time_unit_id": null
+      }
+    },
+    {
+      "Date": "2021-07-28",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    }
+  ],
+  "ProjectsTasks": [
+    {
+      "ProjectTitle": "Internal",
+      "ProjectID": "3c412d78-2304-434b-95c8-776ec907509b",
+      "TaskTypes": []
+    },
+    {
+      "ProjectTitle": "Internship",
+      "ProjectID": "9abbf993-ec79-45f8-91f4-9daf2bdb5f37",
+      "TaskTypes": [
+        {
+          "project_id": "9abbf993-ec79-45f8-91f4-9daf2bdb5f37",
+          "task_types": [
+            {
+              "id": "1392e260-2627-41be-986a-6ccfa8f583ad",
+              "title": "Documentation",
+              "deleted": false
+            },
+            {
+              "id": "4d676b0c-9221-4c1b-b129-9b4b1643bc11",
+              "title": "Development",
+              "deleted": false
+            },
+            {
+              "id": "dc6e4d53-b503-4d61-baf3-638d658cc004",
+              "title": "Investigation",
+              "deleted": false
+            },
+            {
+              "id": "fbb245d6-036c-4ee3-947f-16b7bcf14757",
+              "title": "Testing",
+              "deleted": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ProjectTitle": "Internal - Absences for testing(not to delete)",
+      "ProjectID": "a34d576b-77fa-4daf-8fd6-bf4b817e7e51",
+      "TaskTypes": [
+        {
+          "project_id": "a34d576b-77fa-4daf-8fd6-bf4b817e7e51",
+          "task_types": [
+            {
+              "id": "2457a8de-8321-489c-bc65-7098da90d41d",
+              "title": "Un-Paid Vacation",
+              "deleted": false
+            },
+            {
+              "id": "3a5acb09-2653-4a38-b887-69ccd01dc3de",
+              "title": "Paid Vacation",
+              "deleted": false
+            },
+            {
+              "id": "6b838d85-1ff1-4251-8e18-74fe7825f185",
+              "title": "Paid Sick Leave",
+              "deleted": false
+            },
+            {
+              "id": "78e86d00-2cab-4b62-9f08-d4bf271c2b56",
+              "title": "Un-Paid Sick Leave",
+              "deleted": false
+            },
+            {
+              "id": "812f041c-ffeb-404c-ba1b-734e3a6bbda3",
+              "title": "Un-Paid Holiday",
+              "deleted": false
+            },
+            {
+              "id": "f92dde11-460e-4e85-a39c-ffbf539945ae",
+              "title": "Paid Holiday",
+              "deleted": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "MissingTime": [
+    {
+      "Date": "2021-05-03",
+      "SumOfTime": "0",
+      "TimeUnits": null
+    },
+    {
+      "Date": "2021-05-27",
+      "SumOfTime": "360",
+      "TimeUnits": {
+        "id": "d1deedc0-1367-4e63-a99a-db716418e6a4",
+        "employee_id": "b1c0df22-c743-4b4f-4856-08d90325e3a3",
+        "minutes": 60,
+        "date": "2021-05-27",
+        "description": "Modifying the database to send change events to the service.",
+        "project_id": "d5a3141b-7863-408c-a43e-0041bed0adc1",
+        "project_title": "Internal",
+        "overtime": false,
+        "status": "Draft",
+        "task_type_id": "4d676b0c-9221-4c1b-b129-9b4b1643bc11",
+        "task_type_title": "Development",
+        "is_time_unit_locked": false,
+        "is_billable": false,
+        "is_overtime_payable": null,
+        "overtime_multiplier": null,
+        "source_id": null,
+        "source_name": null,
+        "next_time_unit_id": null
+      }
+    },
+    {
+      "Date": "2021-05-27",
+      "SumOfTime": "360",
+      "TimeUnits": {
+        "id": "f8a0f59e-6251-426a-a198-98db5823408e",
+        "employee_id": "b1c0df22-c743-4b4f-4856-08d90325e3a3",
+        "minutes": 150,
+        "date": "2021-05-27",
+        "description": "Creating the database watcher method to monitor changes in database.",
+        "project_id": "d5a3141b-7863-408c-a43e-0041bed0adc1",
+        "project_title": "Internal",
+        "overtime": false,
+        "status": "Draft",
+        "task_type_id": "4d676b0c-9221-4c1b-b129-9b4b1643bc11",
+        "task_type_title": "Development",
+        "is_time_unit_locked": false,
+        "is_billable": false,
+        "is_overtime_payable": null,
+        "overtime_multiplier": null,
+        "source_id": null,
+        "source_name": null,
+        "next_time_unit_id": null
+      }
+    },
+    {
+      "Date": "2021-05-27",
+      "SumOfTime": "360",
+      "TimeUnits": {
+        "id": "6040450b-77a8-4e89-935e-4bb092f72932",
+        "employee_id": "b1c0df22-c743-4b4f-4856-08d90325e3a3",
+        "minutes": 150,
+        "date": "2021-05-27",
+        "description": "Changing and removing methods that are used for reading test data from the text file.",
+        "project_id": "d5a3141b-7863-408c-a43e-0041bed0adc1",
+        "project_title": "Internal",
+        "overtime": false,
+        "status": "Draft",
+        "task_type_id": "fbb245d6-036c-4ee3-947f-16b7bcf14757",
+        "task_type_title": "Testing",
+        "is_time_unit_locked": false,
+        "is_billable": false,
+        "is_overtime_payable": null,
+        "overtime_multiplier": null,
+        "source_id": null,
+        "source_name": null,
+        "next_time_unit_id": null
+      }
+    }
+  ],
+  "ProjectsTasks": [
+    {
+      "ProjectTitle": "Internal",
+      "ProjectID": "d5a3141b-7863-408c-a43e-0041bed0adc1",
+      "TaskTypes": [
+        {
+          "project_id": "d5a3141b-7863-408c-a43e-0041bed0adc1",
+          "task_types": [
+            {
+              "id": "1392e260-2627-41be-986a-6ccfa8f583ad",
+              "title": "Documentation",
+              "deleted": false
+            },
+            {
+              "id": "29f3ddf6-2043-4b0b-8996-50a023d88c70",
+              "title": "Other",
+              "deleted": false
+            },
+            {
+              "id": "42028ce9-06b8-4440-9e93-fc66b1c369e7",
+              "title": "From JIRA",
+              "deleted": false
+            },
+            {
+              "id": "4d676b0c-9221-4c1b-b129-9b4b1643bc11",
+              "title": "Development",
+              "deleted": false
+            },
+            {
+              "id": "9fd74ac0-337e-422c-a77e-ff3050694ac3",
+              "title": "Code Review",
+              "deleted": false
+            },
+            {
+              "id": "a9c5fe53-9a39-4da0-840b-0a0463463dce",
+              "title": "Administration",
+              "deleted": false
+            },
+            {
+              "id": "d0534255-ff2b-4968-8a7c-bdf42c018407",
+              "title": "Estimation",
+              "deleted": false
+            },
+            {
+              "id": "dc6e4d53-b503-4d61-baf3-638d658cc004",
+              "title": "Investigation",
+              "deleted": false
+            },
+            {
+              "id": "ed706c44-ee58-4be4-a5aa-0b5ff2f04005",
+              "title": "Communication",
+              "deleted": false
+            },
+            {
+              "id": "fbb245d6-036c-4ee3-947f-16b7bcf14757",
+              "title": "Testing",
+              "deleted": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

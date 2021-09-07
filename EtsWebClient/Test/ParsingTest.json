@@ -1,0 +1,10 @@
+{
+  "employee_id": "string",
+  "vacations": [
+   
+    {
+      "start_date": "2021-08-01",
+      "end_date": "2021-08-03"
+    }
+  ]
+}

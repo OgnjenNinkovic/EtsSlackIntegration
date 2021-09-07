@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId1')]/resourceGroups/[parameters('resourceGroup1')]/providers/Microsoft.Sql/servers/etsclientservicetestdb/databases/EtsClientData",
+      "type": "mssql.azure",
+      "connectionId": "TheEtsClientDbConnectionString",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
