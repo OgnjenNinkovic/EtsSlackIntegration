@@ -35,7 +35,7 @@
  * The service will have its own database
 
 * Application data will be stored in the SQL database.
-  **The database will consist of Three tables**
+  The database will consist of Three tables.
       
 
 
